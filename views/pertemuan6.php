@@ -100,8 +100,8 @@
     </style>
 </head>
 <body>
-    <?php include '../Assets/header.php';?>
-    <?php include '../Assets/navbar.php';?>
+    <?php include '../Assets/header1.php';?>
+    <?php include '../Assets/navbar1.php';?>
 
     <div class="container">
         <h1>Form Data Mahasiswa</h1>
